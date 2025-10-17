@@ -67,4 +67,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🌐 Project URL
 
-[Number Guessing Game](https://github.com/tarunbeniwal/guessingTheNumber)
+[ProjectURL](https://github.com/tarunbeniwal/guessingTheNumber)
