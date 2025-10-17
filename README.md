@@ -24,11 +24,11 @@ A terminal-based **Number Guessing Game** written in **Go**. Players can select 
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/tarunbeniwal/guessingTheNumber.git
 ```
 3. Navigate the project folder: 
 ```bash
-cd number-guessing-game
+cd guessingTheNumber
 ```
 4. Run the game:
    ```bash
